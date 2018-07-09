@@ -8,4 +8,4 @@ It offers all of the distributed version control and source code management (SCM
 GitHub offers plans for both private repositories and free accounts which are commonly used to host open-source software projects.As of June 2018, GitHub reports having over 28 million users and 57 million repositories (including 28 million public repositories.), making it the largest host of source code in the world.
 
 On June 4, 2018, Microsoft acquired GitHub for US$7.5 billion
-
+=
